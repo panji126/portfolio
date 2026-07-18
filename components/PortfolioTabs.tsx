@@ -48,7 +48,7 @@ const certificatesData = [
   { id: "c1", title: "Juara 3 - WECON Tech Competition 2026", sub: "Lomba Program PLC & HMI Tingkat Mahasiswa", src: "/certificates/certificate-wtc-2026.jpg" },
   { id: "c2", title: "Juara 2 - Maestro Fest 2025 (Politeknik Astra)", sub: "Lomba PLC dan IoT Nasional Perguruan Tinggi", src: "/certificates/certificate-maestro-fest-2025.jpg" },
   { id: "c3", title: "Harapan 1 - Electrical Skill Competition (ESC) 2025", sub: "Cabang PLC Nasional - Politeknik Negeri Madiun", src: "/certificates/certificate-esc.jpg" },
-  { id: "c4", title: "Harapan 1 - FUSE 2025 (Politeknik Manufaktur Bandung)", sub: "Lomba Programmable Logic Controller Perguruan Tinggi", src: "/certificates/certificate-fuse.pdf" },
+  { id: "c4", title: "Harapan 1 - FUSE 2025 (Politeknik Manufaktur Bandung)", sub: "Lomba Programmable Logic Controller Perguruan Tinggi", src: "/certificates/certificate-fuse.jpg" },
   { id: "c5", title: "Third Honorable Mention - ERIC UNJ 2025", sub: "Electronics and Robotics Innovation Competition - PLC Industrial", src: "/certificates/certificate-eric-unj.jpg" },
   { id: "c6", title: "Juara 1 - LKS Industrial Control Kabupaten Tangerang 2023", sub: "Lomba Kompetensi Siswa SMK Tingkat Kabupaten", src: "/certificates/certificate-lks-tangerang.jpg" },
 ];

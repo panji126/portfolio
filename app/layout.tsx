@@ -11,8 +11,8 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const spaceMono = Space_Mono({ subsets: ["latin"], weight: ["400", "700"], variable: "--font-mono" });
 
 export const metadata: Metadata = {
-  title: "Panji Adhikara | Frontend Developer & Automation Enthusiast",
-  description: "Portofolio Personal Panji Adhikara - Frontend Developer modern dengan keahlian di bidang Automation Engineering.",
+  title: "Panji Adhikara | Automation Enthusiast",
+  description: "Portofolio Personal Panji Adhikara - dengan keahlian di bidang Automation Engineering.",
 };
 
 export default function RootLayout({

@@ -32,7 +32,7 @@ const About = () => {
           </p>
 
           <p className="text-base text-[#a0a0a0] leading-relaxed">
-            Berbekal latar belakang pendidikan kejuruann selama 4 tahun di bidang Otomasi Industri, saya terbiasa membangun sistem kontrol logika yang presisi menggunakan PLC dan HMI. Ketertarikan saya pada antarmuka modern membawa saya ke dunia Otomasi Industri, di mana saya menerapkan tingkat presisi dan arsitektur logika yang sama kuatnya untuk membangun Mesin yang interaktif, responsif, dan berperforma tinggi.
+            Berbekal latar belakang pendidikan kejuruan selama 4 tahun di bidang Otomasi Industri, saya terbiasa membangun sistem kontrol logika yang presisi menggunakan PLC dan HMI. Ketertarikan saya pada antarmuka modern membawa saya ke dunia Otomasi Industri, di mana saya menerapkan tingkat presisi dan arsitektur logika yang sama kuatnya untuk membangun Mesin yang interaktif, responsif, dan berperforma tinggi.
           </p>
 
           {/* Quick Stats / Highlights */}
